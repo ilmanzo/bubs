@@ -12,7 +12,7 @@ your commit messages- your coworkers will love you.
     $ ./bubs BUBS IS THE BEST
     ⒷⓊⒷⓈ ⒾⓈ ⓉⒽⒺ ⒷⒺⓈⓉ
 
-    $ ./bubs -t squared2 h e l l o t h e r e
-    🅷 🅴 🅻 🅻 🅾 🆃 🅷 🅴 🆁 🅴
+    $ ./bubs -t squared2 hello there
+    🅷🅴🅻🅻🅾 🆃🅷🅴🆁🅴
 
 
