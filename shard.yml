@@ -1,0 +1,13 @@
+name: bubs
+version: 0.1.0
+
+authors:
+  - Andrea Manzini <ilmanzo@gmail.com>
+
+targets:
+  bubs:
+    main: src/bubs.cr
+
+crystal: 0.23.1
+
+license: MIT
